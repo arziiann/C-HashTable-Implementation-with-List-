@@ -1,4 +1,3 @@
-```markdown
 # HashTable C++ Implementation
 
 This project is a simple implementation of a hash table in C++, utilizing **chaining** for collision resolution. The hash table uses **`std::list`** to store multiple key-value pairs that hash to the same index in the table. This is just one approach to resolving collisions; other common methods include open addressing and double hashing. This project demonstrates basic hash table operations, including inserting, removing, and searching for elements, as well as checking if the table is empty and printing its contents.
