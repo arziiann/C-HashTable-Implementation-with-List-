@@ -28,7 +28,7 @@ The hash table uses an **array of linked lists** (separate chaining) for collisi
 To clone this project, run the following command in your terminal:
 
 ```bash
-git clone https://github.com/yourusername/hashtable.git
+git clone https://Cpp-HashTable-Implementation-with-List.git
 ```
 
 ### Build the Project
